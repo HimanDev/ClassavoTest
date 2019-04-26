@@ -3,8 +3,10 @@
 
 
 > Step 1 -> Download the project or clone the repository
->Step 2 -> Extract the project
->Step 3 -> Open the index.html in chrome or any other web browser
+
+> Step 2 -> Extract the project
+
+> Step 3 -> Open the index.html in chrome or any other web browser
 
 
 
