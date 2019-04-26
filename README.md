@@ -13,9 +13,9 @@
 ### Screenshots
 
 
-![](https://raw.githubusercontent.com/HimanDev/ClassavoTest/master/ss/Screen%20Shot%202019-04-25%20at%208.16.23%20PM.png)
+![](https://raw.githubusercontent.com/HimanDev/ClassavoTest/master/ss/ss1.png)
 
-![](https://github.com/HimanDev/ClassavoTest/blob/master/ss/Screen%20Shot%202019-04-25%20at%208.25.35%20PM.png?raw=true)
+![](https://github.com/HimanDev/ClassavoTest/blob/master/ss/ss2.png)
 
 ### References
 <https://materializecss.com/>
