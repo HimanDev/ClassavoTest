@@ -1,0 +1,57 @@
+#container {
+    width: 960px;
+    margin: 100px auto;
+}
+
+i.icon-black {
+    color: black;
+}
+
+.btn-floating{
+width: 47px !important;
+height: 47px !important;
+}
+.btn-floating i{
+    line-height: 47px !important;
+}
+
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 42px;
+    font-weight: bold;
+
+}
+h2{
+    font-family: 'Lato', regular;
+    font-style: normal;
+    font-size: 16px;
+    opacity: .66 !important;
+ 
+
+}
+p{
+ font-family: 'roboto' ! important;
+ font-style: normal ! important;
+ font-size: 20px !important;
+ opacity: .66 !important;
+
+}
+
+blockquote{
+font-family: 'roboto' !important;
+font-style: italic !important;
+font-size: 20px !important;
+opacity: .66 !important;
+
+}
+.custome-btn{
+    background-color: #734b9d !important;
+}
+.card-panel{
+    padding: 100px !important;
+}
