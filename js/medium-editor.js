@@ -3301,7 +3301,7 @@ MediumEditor.extensions = {};
                 value: '700|bold'
             },
             useQueryState: true,
-            contentDefault: '<a class="btn-floating  waves-effect waves-light white"><i class="material-icons icon-black">format_bold</i></a>',
+            contentDefault: '<a class="btn-floating  waves-effect waves-light teal-800"><i class="material-icons icon-white">format_bold</i></a>',
             contentFA: '<i class="fa fa-bold"></i>'
         },
         'italic': {
@@ -3314,7 +3314,7 @@ MediumEditor.extensions = {};
                 value: 'italic'
             },
             useQueryState: true,
-            contentDefault: '<a class="btn-floating  waves-effect waves-light white"><i class="material-icons icon-black">format_italic</i></a>',
+            contentDefault: '<a class="btn-floating  waves-effect waves-light cyan-800"><i class="material-icons icon-white">format_italic</i></a>',
             contentFA: '<i class="fa fa-italic"></i>'
         },
         'underline': {
@@ -3327,7 +3327,7 @@ MediumEditor.extensions = {};
                 value: 'underline'
             },
             useQueryState: true,
-            contentDefault: '<a class="btn-floating  waves-effect waves-light white"><i class="material-icons icon-black">format_underlined</i></a>',
+            contentDefault: '<a class="btn-floating  waves-effect waves-light indigo-800"><i class="material-icons icon-white">format_underlined</i></a>',
             contentFA: '<i class="fa fa-underline"></i>'
         },
         'strikethrough': {
@@ -3469,7 +3469,7 @@ MediumEditor.extensions = {};
             name: 'removeFormat',
             aria: 'remove formatting',
             action: 'removeFormat',
-            contentDefault: '<a class="btn-floating waves-effect waves-light custome-btn"><i class="material-icons icon-black">clear</i></a>',
+            contentDefault: '<a class="btn-floating waves-effect waves-light custome-btn"><i class="material-icons icon-white">clear</i></a>',
             contentFA: '<i class="fa fa-eraser"></i>'
         },
 
@@ -3480,7 +3480,7 @@ MediumEditor.extensions = {};
             action: 'append-blockquote',
             aria: 'blockquote',
             tagNames: ['blockquote'],
-            contentDefault: '<a class="btn-floating waves-effect waves-light white"><i class="material-icons icon-black">format_quote</i></a>',
+            contentDefault: '<a class="btn-floating waves-effect waves-light light-blue-800"><i class="material-icons icon-white">format_quote</i></a>',
             contentFA: '<i class="fa fa-quote-right"></i>'
         },
         'pre': {
@@ -3707,7 +3707,7 @@ MediumEditor.extensions = {};
         action: 'createLink',
         aria: 'link',
         tagNames: ['a'],
-        contentDefault: '<a class="btn-floating  waves-effect waves-light white"><i class="material-icons icon-black">link</i></a>',
+        contentDefault: '<a class="btn-floating  waves-effect waves-light green-800"><i class="material-icons icon-white">link</i></a>',
         contentFA: '<i class="fa fa-link"></i>',
 
         init: function () {

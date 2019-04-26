@@ -52,6 +52,21 @@ opacity: .66 !important;
 .custome-btn{
     background-color: #734b9d !important;
 }
+.light-blue-800{
+    background-color: #0277BD    !important;
+}
+.indigo-800{
+    background-color: #283593 !important;
+}
+.cyan-800{
+    background-color: #00838F !important;
+}
+.teal-800{
+    background-color: #00695C    !important;
+}
+.green-800{
+    background-color: #2E7D32    !important;
+}
 .card-panel{
     padding: 100px !important;
 }
